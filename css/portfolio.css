@@ -1,0 +1,62 @@
+
+/*************************
+******* FORMATION ******
+**************************/
+
+.formation {
+    background-color: black; 
+    background-position: right bottom; 
+    margin-bottom:10px; 
+    height:28em; 
+    padding:7px;
+    box-shadow: 8px 8px 6px #333;
+    opacity: 1;
+}
+
+#formation h2 { 
+    color: black;
+    opacity: 1;
+}
+
+.formation h3 {
+    margin-bottom:155px; 
+    color: #fff;
+    background-color: #000;
+    font-size: 1.5em;
+    opacity: 1;
+}
+.formation h3 span { 
+    color: #fff;
+    background-color: #000;
+    font-size: 1.5em;
+    opacity: 1;
+}
+.formation p {
+    padding:2%; 
+    color: #fff;
+    opacity: 1;
+}
+
+.formation a {
+    font-size: 1.8em;
+    font-weight: bold;
+    opacity: 1;
+}
+
+.limoilou {
+    background-image:url(../images/climoilou-logo.png);
+    background-size:25%; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    padding: 1em;
+    opacity: 0.88;
+}
+
+.laval {
+    background-image:url(../images/logo_ul.png);
+    background-size:25%; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    padding: 1em;
+    opacity: 0.88;
+}
